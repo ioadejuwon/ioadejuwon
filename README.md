@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ioadejuwon
-- 👀 I’m interested in Motion Graphics, web development and UI/UX
-- 🌱 I’m currently perfecting my html, css and js
-- 💞️ I’m looking to collaborate on web development and motion design projects
+- 👀 I’m interested in Web development
+- 🌱 I’m write Python, PHP, HTML, CSS and js
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me on zurnergy on instagram
 
 <!---
